@@ -1,0 +1,52 @@
+.background-services {
+  background: rgba(117, 128, 133, 0.7);
+  position: absolute;
+  width: 100%;
+  bottom: 43%;
+  z-index: 2;
+  height: 10vh;
+}
+.title-bannerS {
+  position: absolute;
+  z-index: 2;
+  color: white;
+  text-align: center;
+}
+.b-transparent {
+  background: transparent !important;
+}
+.creacion {
+  background: url(../../images/servicios/creacion.png) no-repeat top;
+  background-size: cover;
+  padding-bottom: 43rem;
+}
+
+.frente {
+  background: url(../../images/servicios/frente.png) no-repeat top;
+  background-size: cover;
+  padding-bottom: 43rem;
+}
+
+.gestion {
+  background: url(../../images/servicios/gestion.png) no-repeat top;
+  background-size: cover;
+  padding-bottom: 43rem;
+}
+
+.consultoria2 {
+  background: url(../../images/servicios/consultoria.png) no-repeat top;
+  background-size: cover;
+  padding-bottom: 43rem;
+}
+
+.back-position {
+  position: absolute;
+  width: 100%;
+  z-index: 2;
+}
+
+.objmidle-titleS {
+  position: absolute;
+  z-index: 1;
+  color: white;
+}

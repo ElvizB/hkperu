@@ -1,0 +1,42 @@
+.background-consult {
+  position: absolute;
+  width: 100%;
+  z-index: 2;
+  max-width: 900px;
+}
+.b_consult {
+  background: url(../../images/consultoria/banner_consult.png) no-repeat top;
+  background-size: cover;
+  height: 24vh;
+}
+
+.contenedor-ext {
+  margin: auto !important;
+}
+
+.contenedor-ext > h1 {
+  position: absolute;
+  z-index: 2;
+  color: white;
+  width: 100%;
+  text-align: left;
+}
+
+.title_consultoria > h4 {
+  color: #0093d3;
+}
+
+.title_consultoria > p {
+  font-size: 15px;
+  color: black;
+}
+
+.title_consultoria_two > p {
+  font-size: 15px;
+  color: black;
+  margin-bottom: 0rem !important;
+}
+
+.back_color {
+  background: #f2f2f2;
+}

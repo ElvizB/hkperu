@@ -1,0 +1,944 @@
+.b_formacion {
+  background: url(../../images/formacion/banner_fe.png) no-repeat top;
+  background-size: cover;
+  height: 30vh;
+}
+
+.list_absolute {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  display: grid;
+  justify-content: center;
+}
+
+.height-back {
+  height: 30vh;
+}
+
+.height-back > h1 {
+  color: white;
+  height: 24vh;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.border-cuadro {
+  border-bottom: 3px solid #0093d3;
+}
+
+.title_conten_consult > h6 {
+  font-size: 18px;
+  margin: 0;
+}
+
+.title_conten_consult > p {
+  margin-bottom: 0rem !important;
+  font-size: 11px !important;
+}
+
+.back-dia {
+  background: #003046;
+  color: white;
+}
+
+.back-dia > h6 {
+  margin: 0;
+}
+
+.back-cuadro-details {
+  background: white;
+}
+
+.back-cuadro-ul {
+  background: #5d6769;
+}
+.back-cuadro-ul > a {
+  color: white !important;
+}
+
+.nav-tabs {
+  border-bottom: none !important;
+}
+
+.nav-tabs .nav-link:focus,
+.nav-tabs .nav-link:hover {
+  border-color: transparent;
+}
+
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+  color: white !important;
+  background-color: #5d6769 !important;
+  border-bottom: 3px solid #f5cb1a !important;
+  border-color: transparent;
+}
+
+.list_absolute ul li {
+  margin-right: 1rem;
+  border-radius: 10px 10px 0px 0px;
+  border: 1px solid white;
+}
+
+/*******Formulario*********/
+.title_soli h5 {
+  color: #0093d3;
+  text-align: center;
+}
+
+.back_formula {
+  background: white;
+  border-radius: 10px;
+  position: fixed;
+  top: calc(100% - 85%);
+  z-index: 2;
+  right: 13%;
+}
+.boton-desing {
+  background: #0093d3;
+  color: white;
+}
+
+.boton-desing:hover {
+  color: white !important;
+}
+.height-form2 {
+  max-width: 360px;
+}
+
+.height__contact {
+  max-width: 360px;
+  margin: auto;
+}
+
+.entry-size input {
+  font-size: 13px;
+  margin-bottom: 1em;
+}
+
+.entry-size select {
+  font-size: 13px;
+  margin-bottom: 1em;
+}
+
+.entry-size textarea {
+  font-size: 13px;
+}
+.autorizo {
+  text-align: left;
+  font-size: 12px;
+  color: #808080;
+}
+
+.form__contant {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.info__cities {
+  text-align: justify;
+  font-size: 15px;
+}
+
+.title__espec {
+  color: white;
+}
+
+.title__espec p {
+  font-size: 15px;
+}
+
+.back-espec {
+  background: #003046;
+}
+.line__subtitle {
+  background: #0093d3;
+  height: 3px;
+  margin-bottom: 2.5em;
+}
+.rounded__content {
+  border-radius: 10px !important;
+  margin-bottom: 1.5em;
+}
+.subtitle__ventajas h6 {
+  color: #0093d3;
+}
+.subtitle__plan {
+  margin: 0px !important;
+  color: black;
+}
+
+.content__plan {
+  background: white;
+}
+.ul__content__info {
+  display: grid;
+  grid-template-columns: 3% 85% 0% auto;
+  align-items: center;
+}
+.ul-duracion {
+  display: flex;
+  align-items: start;
+  font-size: 12px;
+}
+
+.ul-duracion p {
+  margin: 0px;
+  font-family: "Montserrat Regular";
+  font-size: 12px;
+}
+.ul-duracion h6 {
+  margin: 0px;
+  font-family: "Montserrat ExtraBold";
+  font-size: 12px;
+}
+
+.card-header {
+  padding: 0.75rem 0.75rem !important;
+}
+
+.md-accordion .card .fa-angle-down {
+  float: right;
+}
+
+.md-accordion .card .card-header a:not(.collapsed) .rotate-icon {
+  -webkit-transform: rotate(-180deg);
+  transform: rotate(-180deg);
+}
+
+.angle__right {
+  color: #0093d3;
+}
+.info__plan {
+  font-size: 15px;
+}
+.info__plan ul {
+  list-style: disc;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+.ul__pmo {
+  padding-left: 2em;
+  list-style-image: url("./../../images/circle.png");
+  font-size: 15px;
+  color: black;
+  font-family: "Montserrat Regular";
+}
+
+.ul__pmo li {
+  padding-top: 0.5em;
+}
+.title_pmo h4 {
+  color: #0093d3;
+  font-family: "Montserrat Bold";
+  padding-top: 1em;
+}
+.title_pmo p {
+  color: black;
+  font-family: "Montserrat Regular";
+  font-size: 15px;
+  margin: 0;
+}
+
+/*especialidad pmo*/
+.back__especial {
+  background: #518aee;
+}
+
+.content__especial {
+  text-align: center;
+  font-family: "Montserrat Bold";
+  color: white;
+  padding-bottom: 1.5em;
+}
+.u__h6 {
+  border-bottom: 2px solid;
+}
+
+.u__h6 h6 {
+  padding-top: 0.8em;
+  font-size: 19px;
+}
+
+.ul-menu-formacition {
+  font-size: 15px;
+  text-align: center;
+  align-items: center;
+  padding: 9px 0px 13px 0px;
+}
+
+.ul-menu-formacition .waves-effect {
+  border-radius: 16px;
+}
+
+.ul-menu-formacition li:hover {
+  border: 1px solid white;
+  border-radius: 16px;
+  transition: all 0.3s ease;
+}
+
+.ul-menu-formacition li a {
+  font-family: "Montserrat Regular";
+}
+.navbar {
+  box-shadow: none;
+}
+
+.m-info-blue {
+  background: #0093d3;
+  color: white;
+  font-size: 17px;
+  padding: 0.5em 3em 0.5em 3em;
+  border-radius: 2em;
+  text-align: center;
+  max-width: 290px;
+  margin: auto;
+  font-family: "Montserrat Bold";
+}
+.m-info-blue p {
+  margin: 0;
+}
+
+.m-info-black {
+  background: #292425;
+  color: white;
+  font-size: 17px;
+  padding: 0.5em 3em 0.5em 3em;
+  border-radius: 2em;
+  text-align: center;
+  max-width: 290px;
+  margin: auto;
+  font-family: "Montserrat Bold";
+}
+.m-info-black p {
+  margin: 0;
+}
+
+.content-50 {
+  max-width: 48.2%;
+}
+
+.logo-m-fe {
+  display: none;
+}
+
+.u-content-espec {
+  font-family: "Montserrat Regular";
+  color: white;
+  font-size: 12px;
+  padding-top: 2em;
+}
+
+.u-p-espec {
+  border-bottom: 2px solid;
+}
+.u-container {
+  padding-bottom: 2em;
+}
+
+.subtitle__ventajas p {
+  margin: 0;
+}
+
+.u-case {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 67px;
+}
+
+.list_absolute ul li a {
+  font-size: 0.8em;
+}
+
+.cd-center {
+  color: #0093d3;
+}
+.cd-center p {
+  margin: 0;
+}
+
+.padding-py {
+  padding: 5em 0em;
+}
+.u-card-padding {
+  padding: 2em 1em;
+  box-sizing: content-box;
+}
+/*******************************************/
+.bg-cursos {
+  background: #f2f2f2;
+}
+.grid-sc {
+  max-width: 1350px;
+  margin: auto;
+  padding: 60px 5px 30px;
+}
+.lugar-curso {
+  text-align: center;
+}
+.lugar-curso p {
+  width: 160px;
+  background: #003046;
+  color: white;
+  font-family: "Montserrat ExtraBold";
+  margin: auto;
+  height: 30px;
+  font-size: 17px;
+}
+.grid-datos-curso {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  height: 100%;
+  border-bottom: 3px solid #0093d3;
+  background: white;
+  gap: 2em;
+  padding: 40px 0;
+}
+.content-MD-curso {
+  display: grid;
+  gap: 0.5em;
+  align-items: center;
+  justify-items: center;
+}
+
+.MD-curso h6 {
+  margin: 0;
+  font-family: "Montserrat ExtraBold";
+  font-size: 21px;
+}
+.MD-curso p {
+  margin: 0;
+  font-family: "Montserrat Regular";
+  font-size: 15px;
+}
+
+.btn-curso {
+  width: 276px;
+  background: #0093d3;
+  height: 46px;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  border-radius: 20px;
+  transition: all 0.3s ease-in;
+  cursor: pointer;
+}
+.btn-curso:hover {
+  background: #077bad;
+}
+.btn-curso a {
+  color: white;
+  font-family: "Montserrat Bold";
+  font-size: 18px;
+}
+.content-btn {
+  display: grid;
+  justify-content: center;
+}
+.descriptions-curso {
+  text-align: center;
+  font-family: "Montserrat Regular";
+  font-size: 11px;
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+.grid-info-curso {
+  display: grid;
+  max-width: 900px;
+  margin: auto;
+}
+.info-curso {
+  max-width: 100%;
+  padding: 0 20px;
+  text-align: justify;
+}
+.info-curso h2 {
+  color: #0093d3;
+  font-family: "Montserrat Bold";
+  font-size: 28px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.img-info-curso {
+  text-align: center;
+}
+.info-curso p {
+  font-family: "Montserrat Regular";
+  font-size: 13px;
+}
+.MD-curso {
+  text-align: center;
+}
+/***********************************************/
+.bg-details {
+  padding: 40px 20px 70px;
+}
+.grid-details {
+  max-width: 1350px;
+  margin: auto;
+  display: grid;
+  gap: 1em;
+  padding: 0 5px;
+}
+.grid-details-sg {
+  max-width: 1350px;
+  margin: auto;
+  display: grid;
+  gap: 1em;
+  padding: 0 5px;
+}
+
+.grid-listado {
+  display: grid;
+}
+/*************************************************/
+.bg-dirigido {
+  padding: 0 20px 96px;
+}
+.grid-dirigido {
+  max-width: 1350px;
+  margin: auto;
+  padding: 0 5px;
+}
+.grid-info-dirigido {
+  display: grid;
+  gap: 1em;
+  align-items: center;
+}
+.grid-info-dirigido-agil {
+  display: grid;
+  gap: 1em;
+  align-items: center;
+}
+.title-item h2 {
+  color: #0093d3;
+  font-family: "Montserrat Bold";
+  text-transform: uppercase;
+  font-size: 30px;
+}
+.subitem-dirigido {
+  display: grid;
+  grid-template-columns: 35% 65%;
+  padding-bottom: 1em;
+  align-items: center;
+}
+.descriptions-dirigido p {
+  font-family: "Montserrat Regular";
+  font-size: 13px;
+  margin: 0;
+}
+/*****************************************************/
+.bg-certificacion {
+  background: #003046;
+  height: 100%;
+  padding: 40px 20px;
+}
+.grid-certificacion {
+  color: white;
+  max-width: 1350px;
+  margin: auto;
+  display: grid;
+  height: 100%;
+  align-content: center;
+  padding: 0 5px;
+}
+.grid-certificacion h2 {
+  font-family: "Montserrat Bold";
+  font-size: 18px;
+  text-align: center;
+}
+.grid-certificacion h4 {
+  font-family: "Montserrat Medium";
+  font-size: 18px;
+}
+.grid-certificacion p {
+  font-family: "Montserrat Regular";
+  font-size: 15px;
+}
+/*******************************************/
+.bg-plan {
+  padding: 40px 20px;
+}
+.grid-plan {
+  max-width: 1350px;
+  margin: auto;
+  padding: 0 5px;
+}
+.grid-info-plan {
+  display: grid;
+  grid-column-gap: 2em;
+}
+.subtitle__plan span {
+  font-size: 15px;
+}
+/**********************************************/
+.bg-DV {
+  padding: 0 20px 35px;
+}
+.grid-docente {
+  max-width: 1350px;
+  margin: auto;
+  padding: 0 5px;
+  display: grid;
+  gap: 2em;
+}
+.grid-docente-info {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  margin-bottom: 1.5em;
+  border-radius: 10px;
+}
+.description-docente {
+  padding-top: 1em;
+}
+.description-docente h4 {
+  color: #0093d3;
+  font-family: "Montserrat Bold";
+  font-size: 16px;
+}
+.description-docente p {
+  margin: 0;
+  font-family: "Montserrat Regular";
+  font-size: 13px;
+}
+.conten-ventajas {
+  display: grid;
+  grid-column-gap: 2em;
+}
+.ventaja-content {
+}
+.content-docente-info {
+  text-align: center;
+  max-width: 250px;
+  margin: auto;
+  padding: 40px 0;
+}
+.grid-btnincripcion {
+  display: grid;
+  justify-items: center;
+  padding: 40px 0 2px;
+}
+.grid-item-talleres {
+  display: grid;
+  padding-bottom: 1.5em;
+}
+.img-talleres {
+  text-align: center;
+  padding-bottom: 1em;
+}
+/***********************************************/
+.bg-especialidad {
+  background: #518aee;
+  padding: 30px 0 60px;
+  margin-bottom: 2em;
+}
+.grid-especialidad {
+  max-width: 1350px;
+  margin: auto;
+  padding: 0 5px;
+}
+.list-especialidad {
+  display: grid;
+  justify-items: center;
+  color: white;
+  gap: 2em;
+}
+.list-especialidad-sap {
+  display: grid;
+  justify-items: center;
+  color: white;
+  gap: 2em;
+  max-width: 900px;
+  margin: auto;
+}
+.item-list-especialidad {
+  text-align: center;
+}
+.u__h6 h6 {
+  font-family: "Montserrat Bold";
+  color: white;
+  font-size: 17px;
+}
+.title-especialidad {
+  text-align: center;
+}
+.title-especialidad h2 {
+  font-family: "Montserrat Bold";
+  color: white;
+  font-size: 25px;
+  padding-bottom: 1em;
+  text-transform: uppercase;
+}
+.descriptions-espec {
+  max-width: 250px;
+  margin-top: 1em;
+}
+.descriptions-espec p {
+  font-size: 14px;
+  font-family: "Montserrat Regular";
+  margin-bottom: 0.5em;
+}
+/**********************************************/
+.ul__content__info__pm {
+  display: grid;
+  grid-template-columns: 3% 60% 10% auto;
+  align-items: center;
+}
+/***********************************************/
+.grid-info-curso-td {
+  display: grid;
+  padding-top: 1em;
+  grid-gap: 2em;
+  padding: 0 20px;
+}
+.title-curso-td h2 {
+  color: #0093d3;
+  font-family: "Montserrat Bold";
+  font-size: 22px;
+  text-transform: uppercase;
+}
+.descriptions-td p {
+  font-family: "Montserrat Regular";
+  font-size: 13px;
+}
+.grid-descriptions-td {
+  display: grid;
+  padding-top: 0.5em;
+}
+/***************************************************/
+.content-datos-cursos {
+  display: grid;
+  grid-gap: 3em;
+}
+.grid-btn-plataforma {
+  height: 51px;
+  background: #00bdff;
+  border-radius: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  transition: all 0.3s ease;
+  width: 200px;
+  margin: auto;
+}
+.grid-btn-plataforma:hover {
+  background: #71e4ff;
+}
+.btn-plataforma p {
+  margin: 0;
+  font-size: 12px;
+  color: #0052a3;
+}
+.b,
+strong {
+  font-weight: bold !important;
+}
+
+.video-m {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+.web_formation {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+@media screen and (min-width: 575px) {
+  .web_formation {
+    flex-direction: initial;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .grid-info-dirigido {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .grid-info-dirigido-agil {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .description-docente h4 {
+    font-size: 19px;
+  }
+  .conten-ventajas {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .content-docente-info {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 30% 70%;
+    height: 100%;
+    max-width: 340px;
+    margin: auto;
+    grid-column-gap: 1em;
+    text-align: initial;
+  }
+  .description-docente {
+    padding-top: 0em;
+  }
+  .grid-docente-info {
+    height: 220px;
+    /**** width: 410px;****/
+  }
+  .grid-item-talleres {
+    grid-template-columns: 23% 77%;
+  }
+  .img-talleres {
+    text-align: initial;
+  }
+  .ul__content__info__pm {
+    grid-template-columns: 3% 72% 7% auto;
+  }
+  .list-especialidad {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .list-especialidad-sap {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media screen and (min-width: 1110px) {
+  .ul-menu-formacition {
+    font-size: 13px;
+  }
+  .grid-datos-curso {
+    height: 98px;
+    padding: 0;
+    gap: 0;
+  }
+  .grid-info-curso {
+    grid-template-columns: repeat(2, 1fr);
+    padding-top: 1em;
+  }
+  .img-info-curso {
+    text-align: initial;
+  }
+  .content-MD-curso {
+    display: flex;
+    align-items: center;
+    justify-items: initial;
+  }
+  .MD-curso {
+    text-align: initial;
+  }
+  .descriptions-curso {
+    font-size: 15px;
+    margin-bottom: 0em;
+  }
+  .info-curso {
+    text-align: center;
+    max-width: 400px;
+    margin: auto;
+  }
+
+  .grid-details {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .grid-listado {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1em;
+  }
+  .bg-details {
+    padding: 40px 0 70px;
+  }
+
+  .grid-info-dirigido {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .bg-dirigido {
+    padding: 0 0 96px;
+  }
+  .bg-certificacion {
+    height: 240px;
+    padding: 0;
+  }
+  .grid-certificacion h2 {
+    font-size: 30px;
+    text-align: initial;
+  }
+  .grid-certificacion h4 {
+    font-size: 30px;
+  }
+  .grid-certificacion p {
+    font-size: 16px;
+  }
+  .grid-info-plan {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .bg-plan {
+    padding: 80px 0;
+  }
+
+  .grid-docente {
+    grid-template-columns: 31% 66%;
+  }
+
+  .bg-DV {
+    padding: 0 0 70px;
+  }
+  .list-especialidad {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0em;
+  }
+  .list-especialidad-sap {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0em;
+  }
+  .grid-info-curso-td {
+    grid-template-columns: repeat(2, 1fr);
+    padding: 0;
+  }
+  .grid-descriptions-td {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 3em;
+  }
+  .title-curso-td h2 {
+    font-size: 28px;
+  }
+  .content-certificacion {
+    max-width: 700px;
+  }
+  .content-certificacion-sc {
+    max-width: 900px;
+  }
+  .content-datos-cursos {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 11em;
+  }
+  .grid-btn-plataforma {
+    width: 200px;
+    margin: 0px 20px;
+  }
+  .video-m {
+    height: initial;
+  }
+}
+
+@media screen and (min-width: 1240px) {
+  .grid-btn-plataforma {
+    width: 200px;
+    margin: 0px 20px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .grid-btn-plataforma {
+    width: 200px;
+    margin: 0px 20px;
+  }
+}
+
+@media screen and (min-width: 1640px) {
+  .ul-menu-formacition {
+    font-size: 15px;
+  }
+  .grid-btn-plataforma {
+    width: 197px;
+    margin: 0 85px;
+  }
+}

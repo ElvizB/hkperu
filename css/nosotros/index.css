@@ -1,0 +1,52 @@
+.back-bannerN2 {
+  background: url(../../images/nosotros/banner_N2.png) no-repeat top;
+  background-size: cover;
+  height: 76vh;
+}
+
+.height_about {
+  height: 73vh;
+}
+
+.mision {
+  background: url(../../images/nosotros/mision.png) no-repeat top;
+  background-size: cover;
+  padding-bottom: 48rem;
+}
+
+.vision {
+  background: url(../../images/nosotros/vision.png) no-repeat top;
+  background-size: cover;
+  padding-bottom: 48rem;
+}
+
+.title-MV {
+  position: absolute;
+  width: 100%;
+  z-index: 2;
+}
+
+.ground-titleMV {
+  width: 70%;
+  margin: auto;
+  color: white;
+}
+
+.content-about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.title-about {
+  font-family: "Montserrat SemiBold";
+  color: white;
+  padding-bottom: 1em;
+}
+.img-about {
+  text-align: right;
+}
+.list-info-about {
+  font-family: "Montserrat Regular";
+  color: white;
+}

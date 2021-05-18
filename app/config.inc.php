@@ -11,7 +11,7 @@ define("RUTA_FORMACION", SERVIDOR."formacion-especializada");
 define("RUTA_NOSOTROS", SERVIDOR."nosotros");
 define("RUTA_CONTACTO", SERVIDOR."contacto");
 define("RUTA_SMARTCITIES", SERVIDOR."smart-cities");
-define("RUTA_SMARTGRIDS", SERVIDOR."/smart-grids");
+define("RUTA_SMARTGRIDS", SERVIDOR."smart-grids");
 define("RUTA_DIGITAL", SERVIDOR."transformacion-digital");
 define("RUTA_AGILIDAD", SERVIDOR."agilidad");
 define("RUTA_SAP", SERVIDOR."sap");

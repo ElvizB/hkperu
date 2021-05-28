@@ -2,9 +2,9 @@
 
 //rutas de la web
 //define("SERVIDOR", "http://localhost/hkperu/");
-//define("SERVIDOR", "https://hkperu.herokuapp.com/");
+//define("SERVIDOR", "https://hkperuu.herokuapp.com/");
 //rutas de la web
-define("SERVIDOR", "https://hkperu.herokuapp.com/");
+define("SERVIDOR", "https://hkperuu.herokuapp.com/");
 define("RUTA_SERVICIOS", SERVIDOR."servicios");
 define("RUTA_CONSULTORIA", SERVIDOR."consultoria");
 define("RUTA_FORMACION", SERVIDOR."formacion-especializada");

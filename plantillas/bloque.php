@@ -32,7 +32,7 @@
                         </h5>
                         <div class="text-center py-2">
                             <a type="button" href="<?php echo RUTA_CONSULTORIA ?>"
-                                class="btn btn-primary btn-info-consult font-mosterrat-regular animated zoomIn waves-effect waves-light"><span
+                                class="btn btn-primary btn-info-consult-c font-mosterrat-regular animated zoomIn waves-effect waves-light"><span
                                     class="font-small">MÁS INFORMACIÓN</span>
                             </a>
                         </div>

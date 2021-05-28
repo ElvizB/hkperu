@@ -18,9 +18,10 @@
 }
 
 .back-contacto2 {
-  background: url(../../images/contacto/linea2.png) no-repeat top;
+  /*background: url(../../images/contacto/linea2.png) no-repeat top;*/
   background-size: inherit;
   background-position: bottom;
+ 
 }
 
 .text-reset .mb-3 a {
@@ -114,16 +115,16 @@
 }
 
 .boton-v2 {
-  border: 2px solid #0093d5 !important;
+  border: 2px solid #44aa44 !important;
   transition: all 0.3s ease-in;
   border-radius: 5px;
-  background-color: #0093d5 !important;
+  background-color: #44aa44 !important;
 }
 .boton-v2:hover {
   background: transparent !important;
-  color: #0093d5 !important;
+  color: #44aa44 !important;
   border-radius: 30px;
-  border: 2px solid #0093d5 !important;
+  border: 2px solid #44aa44 !important;
 }
 
 .content-contact {

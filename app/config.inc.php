@@ -1,8 +1,8 @@
 <?php 
 
 //rutas de la web
-//define("SERVIDOR", "http://localhost/eyt");
-//define("SERVIDOR", "https://galatelperu.com/");
+//define("SERVIDOR", "http://localhost/hkperu/");
+//define("SERVIDOR", "https://hkperu.herokuapp.com/");
 //rutas de la web
 define("SERVIDOR", "https://hkperu.herokuapp.com/");
 define("RUTA_SERVICIOS", SERVIDOR."servicios");

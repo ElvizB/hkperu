@@ -60,8 +60,13 @@
   src: url("../fonts/Montserrat-ExtraBold.ttf");
 }
 
+.navbar.navbar-dark .breadcrumb .nav-item .nav-link, .navbar.navbar-dark .navbar-nav .nav-item .nav-link{
+  color: #003f89 !important;
+}
+
+
 .nav-back {
-  background: #1e2428;
+  background: #f9f9f9;
 }
 
 .font-Montserrat-ExtraBold {
@@ -93,7 +98,7 @@
 
 .title-formation {
   position: absolute;
-  background: black;
+  background: #152359;
   top: 40%;
   right: 73%;
   z-index: 9;
@@ -102,11 +107,25 @@
 }
 
 .back-consult {
-  background: #feca07;
+  background: #999999;
 }
 .color-consult {
   color: #232323;
 }
+
+.btn-info-consult-c {
+  background: transparent !important;
+  border: 1px solid white;
+  border-radius: 10px;
+  color: white !important;
+  padding: 0.54rem 1rem !important;
+}
+
+.btn-info-consult-c:hover {
+  color: #232323 !important;
+  border: 1px solid #232323 !important;
+}
+
 .btn-info-consult {
   background: transparent !important;
   border: 1px solid #232323;
@@ -138,7 +157,7 @@
 }
 .title-consult {
   position: absolute;
-  background: black;
+  background:#152359;
   top: 45%;
   left: 71%;
   z-index: 9;
@@ -184,7 +203,7 @@
 }
 
 .background-footer {
-  background: #003046;
+  background: #152359;
 }
 
 .background-footer2 {
@@ -292,7 +311,7 @@
 }
 .t-partners h4::after {
   content: " Nuestros Partners";
-  border-bottom: 3px solid #0093d3;
+  border-bottom: 3px solid #44aa44;
   padding-bottom: 0.3em;
 }
 .hover-img-partners {

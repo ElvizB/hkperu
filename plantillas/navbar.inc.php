@@ -8,7 +8,7 @@
                     <div class=" container-fluid">
 
                         <a class="" href="<?php echo SERVIDOR ?>">
-                            <img src="<?php echo RUTA_IMG?>inicio/logo.png" class="img-fluid animated pulse infinite" />
+                            <img src="<?php echo RUTA_IMG?>inicio/logo.png" class="img-fluid" />
                         </a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse"
                             data-target="#navbarSupportedContent-7" aria-controls="navbarSupportedContent-7"

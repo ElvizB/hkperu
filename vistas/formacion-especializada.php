@@ -119,7 +119,7 @@ $titulo = 'Formación Especializada';
             </div>
         </div>
 
-        <div class="tab-pane fade " id="lpm-ex" role="tabpanel" aria-labelledby="sg-tab-ex">
+        <div class="tab-pane fade " id="lpm-ex" role="tabpanel" aria-labelledby="lpm-tab-ex">
 
             <div class="bg-cursos">
                 <?php include_once 'plantillas/formacion/smart_grids/index.php';  ?>

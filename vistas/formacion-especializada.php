@@ -30,12 +30,14 @@ $titulo = 'Formación Especializada';
                                 <li class="nav-item back-cuadro-ul">
                                     <a class="nav-link active show font-mosterrat-regular" id="sc-tab-ex"
                                         data-toggle="tab" href="#sc-ex" role="tab" aria-controls="sc-ex"
-                                        aria-selected="true">IPV 6</a>
+                                        aria-selected="true">IPV6</a>
                                 </li>
+
                                 <li class="nav-item back-cuadro-ul">
                                     <a class="nav-link font-mosterrat-regular" id="lpm-tab-ex" data-toggle="tab"
                                         href="#lpm-ex" role="tab" aria-controls="lpm-ex" aria-selected="false">LEGAL PROJECT MANAGEMENT</a>
                                 </li>
+
                                 <li class="nav-item back-cuadro-ul">
                                     <a class="nav-link font-mosterrat-regular" id="gp-tab-ex" data-toggle="tab"
                                         href="#gp-ex" role="tab" aria-controls="gp-ex" aria-selected="false">GESTIÓN POR PROCESOS</a>
@@ -119,7 +121,7 @@ $titulo = 'Formación Especializada';
             </div>
         </div>
 
-        <div class="tab-pane fade " id="lpm-ex" role="tabpanel" aria-labelledby="sg-tab-ex">
+        <!-- <div class="tab-pane fade " id="lpm-ex" role="tabpanel" aria-labelledby="lpm-tab-ex">
 
             <div class="bg-cursos">
                 <?php include_once 'plantillas/formacion/smart_grids/index.php';  ?>
@@ -144,6 +146,58 @@ $titulo = 'Formación Especializada';
             </div>
 
         </div>
+
+        <div class="tab-pane fade " id="gp-ex" role="tabpanel" aria-labelledby="gp-tab-ex">
+
+            <div class="bg-cursos">
+                <?php include_once 'plantillas/formacion/smart_grids/index.php';  ?>
+            </div>
+
+            <div class="bg-details">
+                <?php include_once 'plantillas/formacion/smart_grids/details.php';  ?>
+            </div>
+
+
+            <div class="bg-dirigido">
+                <?php include_once 'plantillas/formacion/smart_grids/dirigido.php';  ?>
+            </div>
+
+            <div class="bg-plan">
+                <?php include_once 'plantillas/formacion/smart_grids/plan.php';  ?>
+            </div>
+
+
+            <div class="bg-DV">
+                <?php include_once 'plantillas/formacion/smart_grids/ventaja.php';  ?>
+            </div>
+
+        </div>
+
+        <div class="tab-pane fade " id="gc-ex" role="tabpanel" aria-labelledby="gc-tab-ex">
+
+            <div class="bg-cursos">
+                <?php include_once 'plantillas/formacion/smart_grids/index.php';  ?>
+            </div>
+
+            <div class="bg-details">
+                <?php include_once 'plantillas/formacion/smart_grids/details.php';  ?>
+            </div>
+
+
+            <div class="bg-dirigido">
+                <?php include_once 'plantillas/formacion/smart_grids/dirigido.php';  ?>
+            </div>
+
+            <div class="bg-plan">
+                <?php include_once 'plantillas/formacion/smart_grids/plan.php';  ?>
+            </div>
+
+
+            <div class="bg-DV">
+                <?php include_once 'plantillas/formacion/smart_grids/ventaja.php';  ?>
+            </div>
+
+        </div> -->
 
         <div class="tab-pane fade" id="td-ex" role="tabpanel" aria-labelledby="td-tab-ex">
 

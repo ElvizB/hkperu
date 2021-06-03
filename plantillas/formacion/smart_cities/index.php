@@ -31,10 +31,10 @@
 
     <div class="grid-info-curso">
         <div class="info-curso">
-            <h2>Smart Cities</h2>
-            <p>Describir a las ciudades inteligentes y su significativa importancia en el desarrollo
-                urbano
-                presente y futuro, mediante el análisis de sus características y de casos ejemplares
+            <h2>IPV6</h2>
+            <p>En este curso, se explorará el diseño y despliegue a la red
+IPv6 y se conocerá las implicancias de seguridad de cada
+una de las características y funcionalidades de IPv6.
             </p>
         </div>
         <div class="img-info-curso">

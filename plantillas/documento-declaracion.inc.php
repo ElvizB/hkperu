@@ -20,7 +20,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="<?php echo RUTA_IMG?>ico.ico">
     <?php
     if(!isset($titulo) || empty($titulo)){
-      $titulo ='Galatel Perú';
+      $titulo ='HK PERÚ';
     }
     echo "<title>$titulo</title>";
     ?>

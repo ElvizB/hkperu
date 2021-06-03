@@ -38,32 +38,28 @@ $titulo = 'Consultoria';
                                                 <div class="col-lg-3">
                                                     <div class="flex-center view wow fadeIn animated"
                                                         data-wow-delay="0.4s">
-                                                        <img src="<?php echo RUTA_IMG?>/consultoria/c_1.png"
+                                                        <img src="<?php echo RUTA_IMG?>/consultoria/ipv6.png"
                                                             class="img-fluid " />
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-9">
                                                     <div class="py-3 title_consultoria">
                                                         <h4 class=" h4-responsive font-mosterrat-bold">
-                                                            SMART CITIES</h4>
+                                                        IPV6</h4>
                                                         <p class=" font-mosterrat-regular">
-                                                            Servicio de consultoría para diseñar, planificar y ejecutar
-                                                            nuevos
-                                                            procesos y
-                                                            encaminarse a una Smart Cities. Un objetivo prioritario es
-                                                            obtener el
-                                                            retorno
-                                                            sobre la inversión (ROI) - Smart Project.
+                                                        La comunicación de las redes de conexión a Internet se
+                                                        modifican y se actualizan. Por ello, nos enfocamos en la
+                                                        migración del protocolo del Internet Protocol version (IPv4)
+                                                        a su sexta versión el IPv6 que garantiza un óptimo
+                                                        procedimiento estandarizado para la transmisión de
+                                                        paquetes de datos en redes de ordenadores conectados a
+                                                        Internet.
                                                         </p>
 
                                                         <p class=" font-mosterrat-regular">
-                                                            Realizando un análisis inicial definimos el modelo en su
-                                                            conjunto,
-                                                            adaptándolo a
-                                                            la Hoja de Ruta, será posible poner en marcha los nuevos
-                                                            procesos
-                                                            adoptados y
-                                                            adecuados a las necesidades de los ciudadanos.
+                                                        En este curso, se explorará el diseño y despliegue a la red
+                                                        IPv6 y se conocerá las implicancias de seguridad de cada
+                                                        una de las características y funcionalidades de IPv6.
                                                         </p>
                                                     </div>
 

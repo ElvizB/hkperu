@@ -46,7 +46,7 @@
                             </div>
                             <div class="text-center pt-3">
                                 <a class=""
-                                    href="https://api.whatsapp.com/send?phone=51963400563&text=Hola. Tengo la siguiente consulta."
+                                    href="https://api.whatsapp.com/send?phone=51997337791&text=Hola. Tengo la siguiente consulta."
                                     target="_blank">
                                     <img src=" <?php echo RUTA_IMG?>u-wp.png" class="img-fluid" />
                                 </a>

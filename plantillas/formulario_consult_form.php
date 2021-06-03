@@ -76,8 +76,10 @@
              <div class="col-md-12 entry-size">
                  <select name="consultoria" id="consultoria" class="browser-default custom-select ">
                      <option value="" selected disabled>¿Que tipo de consultoria?</option>
-                     <option value="Smart Cities">Smart Cities</option>
-                     <option value="Smart Grids">Smart Grids</option>
+                     <option value="IPV6">IPV 6</option>
+                     <option value="Legal Project Management">LPM (Legal Project Management)</option>
+                     <option value="Gestión por Procesos">Gestión por Procesos</option>
+                     <option value="Gestión del Cambio">Gestión del Cambio</option>
                      <option value="Transformacion Digital">Transformación Digital</option>
                      <option value="Agilidad">Agilidad</option>
                      <option value="SAP">SAP</option>

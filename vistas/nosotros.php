@@ -61,40 +61,19 @@ $titulo = 'Nosotros';
                                 <div class="col-xl-10 col-lg-10 col-md-9 col-md-9">
                                     <div class="list-info-about wow fadeIn" data-wow-delay="0.2s">
                                         <p>
-                                            GALA’TEL S.A.C – (GALA´TEL PERÚ) nace como una empresa en telecomunicaciones
-                                            y
-                                            conectividad. Actualmente se dedica en atender a los sectores público y
-                                            privado
-                                            en
-                                            Consultoría y Formación Especializada en, Smart Cities, Transformación
-                                            Digital,
-                                            Agilidad, PMO y SAP.
+                                        HK PERÚ S.A.C, es una organización dedicada en atender a los sectores público y privado en Consultoría y 
+                                        Formación Especializada en, IPV6, LPM (Legal Project Management), Gestión de Procesos, Gestión del Cambio, Transformación Digital, Agilidad, PMO, SAP y otros.
                                         </p>
                                         <p>
-                                            Nos basamos en buenas prácticas y la experiencia de nuestros socios de
-                                            negocios,
-                                            para
-                                            asegurar con éxito la implementación estratégica, táctica y operativa de
-                                            todos
-                                            sus
-                                            proyectos. Nos enfocamos en potenciar a las empresas públicas y privadas
-                                            para
-                                            que puedan
-                                            afrontar con garantía los retos de crear, reconducir, gestionar, obtener
-                                            retorno
-                                            de
-                                            inversión (ROI).
-                                        </p>
-                                        <p>
-                                            En GALA´TEL S.A.C, tenemos el compromiso de acompañarlos en sus actividades
-                                            y
-                                            oportunidades de mejora de forma transparente y eficaz para convertirnos en
-                                            su
-                                            socio de
-                                            confianza.
+                                        Nos basamos en buenas
+                                        prácticas y la experiencia de
+                                        nuestros socios de negocios,
+                                        para asegurar con éxito la
+                                        implementación estratégica,
+                                        táctica y operativa de todos
+                                        sus proyectos.
                                         </p>
                                     </div>
-
                                 </div>
                             </div>
                         </div>
@@ -127,7 +106,7 @@ $titulo = 'Nosotros';
                             </h2>
                             <h6 class="pb-0 pb-md-0 pb-lg-5 font-mosterrat-light h5-responsive text-left wow fadeIn"
                                 data-wow-delay="0.4s">
-                                La misión de Gala´tel Perú es proveer consultoría y formación especializada para
+                                La misión de HK PERÚ es proveer consultoría y formación especializada para
                                 aquellos clientes del sector público o privado que aspiran a la mejor optimización de
                                 sus organizaciones con el objetivo de incrementar su competitividad y productividad. Nos
                                 basamos en las necesidades de nuestros clientes y proporcionamos las soluciones
@@ -155,7 +134,7 @@ $titulo = 'Nosotros';
                             </h2>
                             <h6 class="pb-0 pb-md-0 pb-lg-5 font-mosterrat-light h5-responsive text-left wow fadeIn"
                                 data-wow-delay="0.4s">
-                                Gala´tel Perú aspira ser una empresa referente en el Perú, que además se adapta a los
+                                HK PERÚ aspira ser una empresa referente en el Perú, que además se adapta a los
                                 cambios de la tecnología y la sociedad, ser reconocida por las especialidades formativas
                                 y en consultoría.
                                 Somos una empresa con visión de futuro y tenemos como objetivo cultivar la confianza con

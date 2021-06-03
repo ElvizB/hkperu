@@ -30,13 +30,22 @@ $titulo = 'Formación Especializada';
                                 <li class="nav-item back-cuadro-ul">
                                     <a class="nav-link active show font-mosterrat-regular" id="sc-tab-ex"
                                         data-toggle="tab" href="#sc-ex" role="tab" aria-controls="sc-ex"
-                                        aria-selected="true">SMART CITIES</a>
+                                        aria-selected="true">IPV 6</a>
                                 </li>
                                 <li class="nav-item back-cuadro-ul">
-                                    <a class="nav-link font-mosterrat-regular" id="sg-tab-ex" data-toggle="tab"
-                                        href="#sg-ex" role="tab" aria-controls="sg-ex" aria-selected="false">SMART
-                                        GRIDS</a>
+                                    <a class="nav-link font-mosterrat-regular" id="lpm-tab-ex" data-toggle="tab"
+                                        href="#lpm-ex" role="tab" aria-controls="lpm-ex" aria-selected="false">LEGAL PROJECT MANAGEMENT</a>
                                 </li>
+                                <li class="nav-item back-cuadro-ul">
+                                    <a class="nav-link font-mosterrat-regular" id="gp-tab-ex" data-toggle="tab"
+                                        href="#gp-ex" role="tab" aria-controls="gp-ex" aria-selected="false">GESTIÓN POR PROCESOS</a>
+                                </li>
+
+                                <li class="nav-item back-cuadro-ul">
+                                    <a class="nav-link font-mosterrat-regular" id="gc-tab-ex" data-toggle="tab"
+                                        href="#gc-ex" role="tab" aria-controls="gc-ex" aria-selected="false">GESTIÓN DEL CAMBIO</a>
+                                </li>
+
                                 <li class="nav-item back-cuadro-ul">
                                     <a class="nav-link font-mosterrat-regular" id="td-tab-ex" data-toggle="tab"
                                         href="#td-ex" role="tab" aria-controls="td-ex"
@@ -110,7 +119,7 @@ $titulo = 'Formación Especializada';
             </div>
         </div>
 
-        <div class="tab-pane fade " id="sg-ex" role="tabpanel" aria-labelledby="sg-tab-ex">
+        <div class="tab-pane fade " id="lpm-ex" role="tabpanel" aria-labelledby="sg-tab-ex">
 
             <div class="bg-cursos">
                 <?php include_once 'plantillas/formacion/smart_grids/index.php';  ?>

@@ -1,7 +1,7 @@
 .b_formacion {
   background: url(../../images/formacion/banner_fe.png) no-repeat top;
   background-size: cover;
-  height: 30vh;
+  height: 276px;
 }
 
 .list_absolute {
@@ -13,7 +13,7 @@
 }
 
 .height-back {
-  height: 30vh;
+  height: 276px;
 }
 
 .height-back > h1 {
@@ -52,7 +52,7 @@
 }
 
 .back-cuadro-ul {
-  background: #5d6769;
+  background: #152359;
 }
 .back-cuadro-ul > a {
   color: white !important;
@@ -70,8 +70,8 @@
 .nav-tabs .nav-item.show .nav-link,
 .nav-tabs .nav-link.active {
   color: white !important;
-  background-color: #5d6769 !important;
-  border-bottom: 3px solid #f5cb1a !important;
+  background-color: #44aa44 !important;
+  border-bottom: 3px solid #152359 !important;
   border-color: transparent;
 }
 

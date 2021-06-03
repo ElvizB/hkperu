@@ -30,7 +30,7 @@
 
     <div class="grid-info-curso">
         <div class="info-curso">
-            <h2>SMART GRIDS</h2>
+            <h2>LPM (Legal Project Management)</h2>
             <p>Introducir el concepto de Smart Cities y de las Smart Grids (Redes De Distribución Eléctrica
                 Inteligentes) y analizar los beneficios de estas últimas en comparación con las Redes Eléctricas
                 tradicionales.

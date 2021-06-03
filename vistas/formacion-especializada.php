@@ -119,9 +119,9 @@ $titulo = 'Formación Especializada';
             </div>
         </div>
 
-        <!-- <div class="tab-pane fade " id="lpm-ex" role="tabpanel" aria-labelledby="lpm-tab-ex">
+        <div class="tab-pane fade " id="lpm-ex" role="tabpanel" aria-labelledby="lpm-tab-ex">
 
-            <div class="bg-cursos">
+            <!-- <div class="bg-cursos">
                 <?php include_once 'plantillas/formacion/smart_grids/index.php';  ?>
             </div>
 
@@ -141,9 +141,9 @@ $titulo = 'Formación Especializada';
 
             <div class="bg-DV">
                 <?php include_once 'plantillas/formacion/smart_grids/ventaja.php';  ?>
-            </div>
+            </div> -->
 
-        </div> -->
+        </div>
 
         <div class="tab-pane fade" id="td-ex" role="tabpanel" aria-labelledby="td-tab-ex">
 

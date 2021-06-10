@@ -27,46 +27,79 @@ $titulo = 'Formación Especializada';
                         <div class="list_absolute">
                             <ul class="nav nav-tabs md-tabs" id="myTabEx" role="tablist">
 
+                                <!-- transforacion digital -->
                                 <li class="nav-item back-cuadro-ul">
-                                    <a class="nav-link active show font-mosterrat-regular" id="sc-tab-ex"
-                                        data-toggle="tab" href="#sc-ex" role="tab" aria-controls="sc-ex"
-                                        aria-selected="true">IPV 6</a>
-                                </li>
-                                <li class="nav-item back-cuadro-ul">
-                                    <a class="nav-link font-mosterrat-regular" id="lpm-tab-ex" data-toggle="tab"
-                                        href="#lpm-ex" role="tab" aria-controls="lpm-ex" aria-selected="false">LEGAL PROJECT MANAGEMENT</a>
-                                </li>
-                                <li class="nav-item back-cuadro-ul">
-                                    <a class="nav-link font-mosterrat-regular" id="gp-tab-ex" data-toggle="tab"
-                                        href="#gp-ex" role="tab" aria-controls="gp-ex" aria-selected="false">GESTIÓN POR PROCESOS</a>
-                                </li>
-
-                                <li class="nav-item back-cuadro-ul">
-                                    <a class="nav-link font-mosterrat-regular" id="gc-tab-ex" data-toggle="tab"
-                                        href="#gc-ex" role="tab" aria-controls="gc-ex" aria-selected="false">GESTIÓN DEL CAMBIO</a>
-                                </li>
-
-                                <li class="nav-item back-cuadro-ul">
-                                    <a class="nav-link font-mosterrat-regular" id="td-tab-ex" data-toggle="tab"
+                                    <a class="nav-link active font-mosterrat-regular" id="td-tab-ex" data-toggle="tab"
                                         href="#td-ex" role="tab" aria-controls="td-ex"
                                         aria-selected="false">TRANSFORMACIÓN DIGITAL</a>
                                 </li>
 
+                                <!-- Smart Cities -->
+                                <li class="nav-item back-cuadro-ul">
+                                    <a class="nav-link font-mosterrat-regular" id="sc-tab-ex" data-toggle="tab"
+                                        href="#sc-ex" role="tab" aria-controls="sc-ex"
+                                        aria-selected="false">SMART CITIES</a>
+                                </li>
+
+                                <!-- agilidad -->
                                 <li class="nav-item back-cuadro-ul">
                                     <a class="nav-link font-mosterrat-regular" id="agil-tab-ex" data-toggle="tab"
                                         href="#agil-ex" role="tab" aria-controls="agil-ex"
                                         aria-selected="false">AGILIDAD</a>
                                 </li>
-
+                            
+                                <!-- LPM -->
                                 <li class="nav-item back-cuadro-ul">
-                                    <a class="nav-link font-mosterrat-regular" id="sap-tab-ex" data-toggle="tab"
-                                        href="#sap-ex" role="tab" aria-controls="sap-ex" aria-selected="false">SAP</a>
+                                    <a class="nav-link font-mosterrat-regular" id="lpm-tab-ex" data-toggle="tab"
+                                        href="#lpm-ex" role="tab" aria-controls="lpm-ex" aria-selected="false">LPM</a>
                                 </li>
+
+                                <!--GESTION DEL PROCESO  -->
+                                <li class="nav-item back-cuadro-ul">
+                                    <a class="nav-link font-mosterrat-regular" id="gp-tab-ex" data-toggle="tab"
+                                        href="#gp-ex" role="tab" aria-controls="gp-ex" aria-selected="false">GESTIÓN POR PROCESOS</a>
+                                </li>
+
+                                <!-- GESTIÓN DEL CAMBIO -->
+                                <li class="nav-item back-cuadro-ul">
+                                    <a class="nav-link font-mosterrat-regular" id="gc-tab-ex" data-toggle="tab"
+                                        href="#gc-ex" role="tab" aria-controls="gc-ex" aria-selected="false">GESTIÓN DEL CAMBIO</a>
+                                </li>
+
+                                <!-- PMO -->
                                 <li class="nav-item back-cuadro-ul">
                                     <a class="nav-link font-mosterrat-regular" id="pmo-tab-ex" data-toggle="tab"
                                         href="#pmo-ex" role="tab" aria-controls="profile-ex"
                                         aria-selected="false">PMO</a>
                                 </li>
+
+                                <!-- ISO -->
+                                <li class="nav-item back-cuadro-ul">
+                                    <a class="nav-link  show font-mosterrat-regular" id="iso-tab-ex"
+                                        data-toggle="tab" href="#iso-ex" role="tab" aria-controls="iso-ex"
+                                        aria-selected="true">ISO</a>
+                                </li>
+
+                                <!-- IPV6 -->
+                                <li class="nav-item back-cuadro-ul">
+                                    <a class="nav-link  show font-mosterrat-regular" id="sc-tab-ex"
+                                        data-toggle="tab" href="#sc-ex" role="tab" aria-controls="sc-ex"
+                                        aria-selected="true">IPV 6</a>
+                                </li>
+
+                                 <!-- SAP  -->                                
+                                <li class="nav-item back-cuadro-ul">
+                                    <a class="nav-link font-mosterrat-regular" id="sap-tab-ex" data-toggle="tab"
+                                        href="#sap-ex" role="tab" aria-controls="sap-ex" aria-selected="false">SAP</a>
+                                </li>
+
+                                <!--DATA MANAGEMENT  -->
+                                <li class="nav-item back-cuadro-ul">
+                                    <a class="nav-link  show font-mosterrat-regular" id="dm-tab-ex"
+                                        data-toggle="tab" href="#dm-ex" role="tab" aria-controls="dm-ex"
+                                        aria-selected="true">DATA MANAGEMENT</a>
+                                </li>
+                               
                             </ul>
                         </div>
                     </div>

@@ -76,7 +76,7 @@
 }
 
 .list_absolute ul li {
-  margin-right: 1rem;
+  margin-right: .5rem;
   border-radius: 10px 10px 0px 0px;
   border: 1px solid white;
 }

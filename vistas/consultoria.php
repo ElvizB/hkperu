@@ -110,22 +110,23 @@ $titulo = 'Consultoria';
                                                 <div class="col-lg-3">
                                                     <div class="view wow fadeIn animated flex-center"
                                                         data-wow-delay="0.4s">
-                                                        <img src="<?php echo RUTA_IMG?>not.png"
+                                                        <img src="<?php echo RUTA_IMG?>consultoria/gp.png"
                                                             class="img-fluid" />
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-9">
                                                     <div class="py-3 title_consultoria">
                                                         <h4 class=" h4-responsive font-mosterrat-bold">
-                                                        GESTIÓN DEL CAMBIO</h4>
+                                                        GESTIÓN POR PROCESOS</h4>
                                                         <p class=" font-mosterrat-regular">
-                                                        El cambio es una constante, que obliga a las
-                                                        organizaciones adaptarse y a afrontar nuevos retos, en
-                                                        ese contexto la Gestión del Cambio lo que busca, es
-                                                        facilitar y conseguir la implementación exitosa de los
-                                                        procesos de la transformación digital y que las
-                                                        organizaciones trasciendan y sean capaces de liderar
-                                                        acciones rápidas en un nuevo contexto.
+                                                        Trabajamos conjuntamente con nuestros clientes para
+                                                        adecuar los procesos y estructura organizativa. La gestión
+                                                        pública esta orientada a resultados y al servicio del
+                                                        ciudadano. Por ello, debe cambiar el tradicional modelo
+                                                        de organización funcional y migrar hacia una
+                                                        organización por procesos contenidos en las “cadenas de
+                                                        valor” de cada entidad para generar impactos positivos
+                                                        para el ciudadano.
                                                         </p>
                                                     </div>
                                                 </div>
@@ -141,7 +142,7 @@ $titulo = 'Consultoria';
                                                 <div class="col-lg-3">
                                                     <div class="view wow fadeIn animated flex-center"
                                                         data-wow-delay="0.4s">
-                                                        <img src="<?php echo RUTA_IMG?>not.png"
+                                                        <img src="<?php echo RUTA_IMG?>consultoria/iso.png"
                                                             class="img-fluid" />
                                                     </div>
                                                 </div>

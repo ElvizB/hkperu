@@ -9,7 +9,7 @@
         <div class="grid-docente-info">
             <div class="content-docente-info">
                 <div class="img-docente">
-                    <img src="<?php echo RUTA_IMG?>sin-imagen.png" class="img-fluid" />
+                    <img src="<?php echo RUTA_IMG?>formacion/gp/jose.png" class="img-fluid" />
                 </div>
                 <div class="description-docente">
                     <h4>José Selem Novoa</h4>

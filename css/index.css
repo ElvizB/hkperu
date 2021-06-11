@@ -60,6 +60,10 @@
   src: url("../fonts/Montserrat-ExtraBold.ttf");
 }
 
+.subtitle-plan-color{
+  padding-left: 17px;
+    padding-bottom: 10px;
+}
 
 .nav-back {
   background: #f9f9f9;

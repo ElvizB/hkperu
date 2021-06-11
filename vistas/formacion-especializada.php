@@ -205,14 +205,18 @@ $titulo = 'Formación Especializada';
             <div class="bg-cursos">
                 <?php include_once 'plantillas/formacion/iso/inicio.php';  ?>
             </div>
+            
+            <div class="bg-plan">
+                    <?php include_once 'plantillas/formacion/iso/plan.php';  ?>
+                </div>
 
-            <div class="bg-DV pt-5">
+            <div class="bg-DV ">
                 <?php include_once 'plantillas/formacion/iso/ventajas.php';  ?>
             </div>
 
         </div>
 
-           <!-- ISO -->
+           <!-- dm -->
          <div class="tab-pane fade " id="dm-ex" role="tabpanel" aria-labelledby="dm-tab-ex">
 
             <div class="bg-cursos">

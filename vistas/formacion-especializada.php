@@ -112,7 +112,7 @@ $titulo = 'Formación Especializada';
 <section class="">
     <div class="tab-content" id="myTabContentEx">
        
-
+        <!-- transforacion digital -->
         <div class="tab-pane fade active show" id="td-ex" role="tabpanel" aria-labelledby="td-tab-ex">
 
                 <div class="bg-cursos">
@@ -149,18 +149,29 @@ $titulo = 'Formación Especializada';
                 </div>
         </div>
 
+         <!--GESTION DEL PROCESO  -->
         <div class="tab-pane fade " id="gp-ex" role="tabpanel" aria-labelledby="gp-tab-ex">
 
             <div class="bg-cursos">
                 <?php include_once 'plantillas/formacion/gp/inicio.php';  ?>
             </div>
 
+            
+            <div class="bg-DV pt-5">
+                <?php include_once 'plantillas/formacion/gp/ventajas.php';  ?>
+            </div>
+
         </div>
 
+        <!-- GESTIÓN DEL CAMBIO -->
         <div class="tab-pane fade " id="gc-ex" role="tabpanel" aria-labelledby="gc-tab-ex">
 
             <div class="bg-cursos">
                 <?php include_once 'plantillas/formacion/gc/inicio.php';  ?>
+            </div>
+
+            <div class="bg-DV pt-5">
+                <?php include_once 'plantillas/formacion/gc/ventajas.php';  ?>
             </div>
 
         </div>
@@ -172,36 +183,48 @@ $titulo = 'Formación Especializada';
                 <?php include_once 'plantillas/formacion/ipv6/inicio.php';  ?>
             </div>
 
+            <div class="bg-DV pt-5">
+                <?php include_once 'plantillas/formacion/ipv6/ventajas.php';  ?>
+            </div>
+
         </div>
 
-
+         <!-- LPM -->
         <div class="tab-pane fade " id="lpm-ex" role="tabpanel" aria-labelledby="lpm-tab-ex">
 
             <div class="bg-cursos">
                 <?php include_once 'plantillas/formacion/smart_grids/index.php';  ?>
             </div>
 
-            <div class="bg-details">
-                <?php include_once 'plantillas/formacion/smart_grids/details.php';  ?>
+
+        </div>
+
+          <!-- ISO -->
+        <div class="tab-pane fade " id="iso-ex" role="tabpanel" aria-labelledby="iso-tab-ex">
+
+            <div class="bg-cursos">
+                <?php include_once 'plantillas/formacion/iso/inicio.php';  ?>
             </div>
 
-
-            <div class="bg-dirigido">
-                <?php include_once 'plantillas/formacion/smart_grids/dirigido.php';  ?>
-            </div>
-
-            <div class="bg-plan">
-                <?php include_once 'plantillas/formacion/smart_grids/plan.php';  ?>
-            </div>
-
-
-            <div class="bg-DV">
-                <?php include_once 'plantillas/formacion/smart_grids/ventaja.php';  ?>
+            <div class="bg-DV pt-5">
+                <?php include_once 'plantillas/formacion/iso/ventajas.php';  ?>
             </div>
 
         </div>
 
-       
+           <!-- ISO -->
+         <div class="tab-pane fade " id="dm-ex" role="tabpanel" aria-labelledby="dm-tab-ex">
+
+            <div class="bg-cursos">
+                <?php include_once 'plantillas/formacion/dm/inicio.php';  ?>
+            </div>
+
+            <div class="bg-DV pt-5">
+                <?php include_once 'plantillas/formacion/dm/ventajas.php';  ?>
+            </div>
+
+        </div>
+      
 
         <div class="tab-pane fade " id="agil-ex" role="tabpanel" aria-labelledby="agil-tab-ex">
 

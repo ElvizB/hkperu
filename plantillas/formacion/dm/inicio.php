@@ -19,7 +19,7 @@
                 </div>
                 <div class="MD-curso">
                     <h6> Duración </h6>
-                    <p>Según el taller a elegir.</p>
+                    <p>150 horas lectivas</p>
                 </div>
             </div>
         </div>
@@ -30,19 +30,15 @@
 
     <div class="grid-info-curso">
         <div class="info-curso">
-            <h2>GESTIÓN DEL CAMBIO</h2>
+            <h2>DATA MANAGEMENT</h2>
             <p>
-                    El cambio es una constante, que obliga a las
-                    organizaciones adaptarse y a afrontar nuevos retos, en
-                    ese contexto la Gestión del Cambio lo que busca, es
-                    facilitar y conseguir la implementación exitosa de los
-                    procesos de la transformación digital y que las
-                    organizaciones trasciendan y sean capaces de liderar
-                    acciones rápidas en un nuevo contexto.
+            </p>
+            <p>
+               
             </p>
         </div>
         <div class="img-info-curso">
-            <img src="<?php echo RUTA_IMG?>none.png" height="300" />
+            <img src="<?php echo RUTA_IMG?>none.png" class="" height="300" />
         </div>
     </div>
 </div>

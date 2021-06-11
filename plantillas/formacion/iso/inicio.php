@@ -30,15 +30,13 @@
 
     <div class="grid-info-curso">
         <div class="info-curso">
-            <h2>GESTIÓN DEL CAMBIO</h2>
+            <h2>ISO</h2>
             <p>
-                    El cambio es una constante, que obliga a las
-                    organizaciones adaptarse y a afrontar nuevos retos, en
-                    ese contexto la Gestión del Cambio lo que busca, es
-                    facilitar y conseguir la implementación exitosa de los
-                    procesos de la transformación digital y que las
-                    organizaciones trasciendan y sean capaces de liderar
-                    acciones rápidas en un nuevo contexto.
+            La implementación de sistemas de gestión permite a las
+            organizaciones incrementar su productividad y ser más
+            competitivas, garantizando la satisfacción del cliente o
+            ciudadano mejorando su experiencia con la entidad publica o
+            privada.
             </p>
         </div>
         <div class="img-info-curso">

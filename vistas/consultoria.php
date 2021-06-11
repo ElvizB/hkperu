@@ -110,7 +110,7 @@ $titulo = 'Consultoria';
                                                 <div class="col-lg-3">
                                                     <div class="view wow fadeIn animated flex-center"
                                                         data-wow-delay="0.4s">
-                                                        <img src="<?php echo RUTA_IMG?>/consultoria/c_2.png"
+                                                        <img src="<?php echo RUTA_IMG?>not.png"
                                                             class="img-fluid" />
                                                     </div>
                                                 </div>
@@ -141,7 +141,7 @@ $titulo = 'Consultoria';
                                                 <div class="col-lg-3">
                                                     <div class="view wow fadeIn animated flex-center"
                                                         data-wow-delay="0.4s">
-                                                        <img src="<?php echo RUTA_IMG?>/consultoria/c_2.png"
+                                                        <img src="<?php echo RUTA_IMG?>not.png"
                                                             class="img-fluid" />
                                                     </div>
                                                 </div>
@@ -170,7 +170,7 @@ $titulo = 'Consultoria';
                                                 <div class="col-lg-3">
                                                     <div class="view wow fadeIn animated flex-center"
                                                         data-wow-delay="0.4s">
-                                                        <img src="<?php echo RUTA_IMG?>/consultoria/c_2.png"
+                                                        <img src="<?php echo RUTA_IMG?>not.png"
                                                             class="img-fluid" />
                                                     </div>
                                                 </div>

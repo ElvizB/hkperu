@@ -45,7 +45,7 @@
             </p>
         </div>
         <div class="img-info-curso">
-            <img src="<?php echo RUTA_IMG?>pmo.png" height="300" />
+            <img src="<?php echo RUTA_IMG?>none.png" height="300" />
         </div>
     </div>
 </div>

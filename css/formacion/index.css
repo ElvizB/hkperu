@@ -18,7 +18,7 @@
 
 .height-back > h1 {
   color: white;
-  height: 24vh;
+  height: 21vh;
   display: grid;
   justify-content: center;
   align-items: center;
@@ -758,9 +758,15 @@ strong {
   .web_formation {
     flex-direction: initial;
   }
+
+  
 }
 
 @media screen and (min-width: 768px) {
+  .height-back > h1 {
+       height: 21vh;
+   
+  }
   .grid-info-dirigido {
     grid-template-columns: repeat(2, 1fr);
   }

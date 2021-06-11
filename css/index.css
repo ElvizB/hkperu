@@ -60,10 +60,6 @@
   src: url("../fonts/Montserrat-ExtraBold.ttf");
 }
 
-.navbar.navbar-dark .breadcrumb .nav-item .nav-link, .navbar.navbar-dark .navbar-nav .nav-item .nav-link{
-  color: #003f89 !important;
-}
-
 
 .nav-back {
   background: #f9f9f9;
@@ -340,6 +336,9 @@
 }
 
 @media screen and (min-width: 768px) {
+  .navbar.navbar-dark .breadcrumb .nav-item .nav-link, .navbar.navbar-dark .navbar-nav .nav-item .nav-link{
+  color: #003f89 !important;
+}
 }
 @media screen and (min-width: 1025px) {
   .grid_partner {
@@ -434,7 +433,7 @@
     text-align: center !important;
   }
   .nav-tabs .nav-item {
-    margin-bottom: 0px !important;
+    margin-bottom: 2px !important;
   }
   .nav-link {
     padding: 0.4rem 0.5rem !important;
@@ -449,7 +448,7 @@
     font-size: 0.6em !important;
   }
   .list_absolute ul li {
-    margin-right: 0rem !important;
+    margin-right: 0.2rem !important;
   }
   .title_conten_consult {
     text-align: center !important;

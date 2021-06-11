@@ -71,7 +71,7 @@ $titulo = 'Consultoria';
 
 
 
-                                <div class="row">
+                                <div class="row pb-4">
                                     <div class="col-lg-10">
                                         <div class="container-fluid reset-spacing">
                                             <div class="row">
@@ -102,6 +102,92 @@ $titulo = 'Consultoria';
                                         </div>
                                     </div>
                                 </div>
+
+                                <div class="row pb-4">
+                                    <div class="col-lg-10">
+                                        <div class="container-fluid reset-spacing">
+                                            <div class="row">
+                                                <div class="col-lg-3">
+                                                    <div class="view wow fadeIn animated flex-center"
+                                                        data-wow-delay="0.4s">
+                                                        <img src="<?php echo RUTA_IMG?>/consultoria/c_2.png"
+                                                            class="img-fluid" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-9">
+                                                    <div class="py-3 title_consultoria">
+                                                        <h4 class=" h4-responsive font-mosterrat-bold">
+                                                        GESTIÓN DEL CAMBIO</h4>
+                                                        <p class=" font-mosterrat-regular">
+                                                        El cambio es una constante, que obliga a las
+                                                        organizaciones adaptarse y a afrontar nuevos retos, en
+                                                        ese contexto la Gestión del Cambio lo que busca, es
+                                                        facilitar y conseguir la implementación exitosa de los
+                                                        procesos de la transformación digital y que las
+                                                        organizaciones trasciendan y sean capaces de liderar
+                                                        acciones rápidas en un nuevo contexto.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row pb-4">
+                                    <div class="col-lg-10">
+                                        <div class="container-fluid reset-spacing">
+                                            <div class="row">
+                                                <div class="col-lg-3">
+                                                    <div class="view wow fadeIn animated flex-center"
+                                                        data-wow-delay="0.4s">
+                                                        <img src="<?php echo RUTA_IMG?>/consultoria/c_2.png"
+                                                            class="img-fluid" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-9">
+                                                    <div class="py-3 title_consultoria">
+                                                        <h4 class=" h4-responsive font-mosterrat-bold">
+                                                       ISO</h4>
+                                                        <p class=" font-mosterrat-regular">
+                                                        La implementación de sistemas de gestión permite a las
+                                                        organizaciones incrementar su productividad y ser más
+                                                        competitivas, garantizando la satisfacción del cliente o
+                                                        ciudadano mejorando su experiencia con la entidad publica o
+                                                        privada.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-lg-10">
+                                        <div class="container-fluid reset-spacing">
+                                            <div class="row">
+                                                <div class="col-lg-3">
+                                                    <div class="view wow fadeIn animated flex-center"
+                                                        data-wow-delay="0.4s">
+                                                        <img src="<?php echo RUTA_IMG?>/consultoria/c_2.png"
+                                                            class="img-fluid" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-9">
+                                                    <div class="py-3 title_consultoria">
+                                                        <h4 class=" h4-responsive font-mosterrat-bold">
+                                                        DATA MANAGEMENT</h4>
+                                                        <p class=" font-mosterrat-regular">
+                                                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, illum. Minima suscipit necessitatibus commodi, consequuntur voluptatum doloribus voluptate neque blanditiis odio soluta optio mollitia dolor rerum placeat unde quia nulla!
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
                             </div>
                         </div>
                         <div class="col-lg-5">

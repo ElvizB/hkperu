@@ -35,11 +35,11 @@ $titulo = 'Formación Especializada';
                                 </li>
 
                                 <!-- Smart Cities -->
-                                <li class="nav-item back-cuadro-ul">
+                                <!-- <li class="nav-item back-cuadro-ul">
                                     <a class="nav-link font-mosterrat-regular" id="sc-tab-ex" data-toggle="tab"
                                         href="#sc-ex" role="tab" aria-controls="sc-ex"
                                         aria-selected="false">SMART CITIES</a>
-                                </li>
+                                </li> -->
 
                                 <!-- agilidad -->
                                 <li class="nav-item back-cuadro-ul">
@@ -82,8 +82,8 @@ $titulo = 'Formación Especializada';
 
                                 <!-- IPV6 -->
                                 <li class="nav-item back-cuadro-ul">
-                                    <a class="nav-link  show font-mosterrat-regular" id="sc-tab-ex"
-                                        data-toggle="tab" href="#sc-ex" role="tab" aria-controls="sc-ex"
+                                    <a class="nav-link  show font-mosterrat-regular" id="ipv6-tab-ex"
+                                        data-toggle="tab" href="#ipv6-ex" role="tab" aria-controls="ipv6-ex"
                                         aria-selected="true">IPV 6</a>
                                 </li>
 
@@ -111,46 +111,69 @@ $titulo = 'Formación Especializada';
 
 <section class="">
     <div class="tab-content" id="myTabContentEx">
-        <div class="tab-pane fade active show" id="sc-ex" role="tabpanel" aria-labelledby="sc-tab-ex">
-            <div class="bg-cursos">
-                <?php include_once 'plantillas/formacion/smart_cities/index.php';  ?>
-            </div>
+       
 
-            <div class="bg-details">
-                <?php include_once 'plantillas/formacion/smart_cities/details.php';  ?>
-            </div>
+        <div class="tab-pane fade active show" id="td-ex" role="tabpanel" aria-labelledby="td-tab-ex">
 
+                <div class="bg-cursos">
+                    <?php include_once 'plantillas/formacion/digital/inicio.php';  ?>
+                </div>
 
-            <div class="bg-dirigido">
-                <?php include_once 'plantillas/formacion/smart_cities/dirigido.php';  ?>
-            </div>
+                <div class="bg-details">
+                    <?php include_once 'plantillas/formacion/digital/dirigido.php';  ?>
+                </div>
 
-            <div class="bg-certificacion">
-                <div class="grid-certificacion">
-                    <div class="content-certificacion-sc">
-                        <h2>
-                            CERTIFICACIÓN
-                        </h2>
-                        <h4>
-                            ESPECIALISTA EN SMART CITIES Y GOBIERNO DIGITAL
-                        </h4>
-                        <p>
-                            Luego de aprobar el módulo del programa se te otorgará el
-                            certificado de Especialista en Smart Cities y Gobierno Digital a
-                            nombre de GALA’TEL PERÚ y SMARTER CITIES.
-                        </p>
+                <div class="bg-certificacion">
+                    <div class="grid-certificacion">
+                        <div class="content-certificacion">
+                            <h2>
+                                CERTIFICACIÓN EN PRINCIPIOS DE GESTIÓN DE LA TRANSFORMACIÓN
+                                DIGITAL
+                            </h2>
+                            <p>
+                                Luego de aprobar todos los módulos del programa se te otorgará el certificado en PRINCIPIOS
+                                DE
+                                GESTIÓN DE LA TRANSFORMACIÓN DIGITAL a nombre de GALA’TEL PERÚ.
+                            </p>
+                        </div>
                     </div>
                 </div>
-            </div>
 
-            <div class="bg-plan">
-                <?php include_once 'plantillas/formacion/smart_cities/plan.php';  ?>
-            </div>
+                <div class="bg-plan">
+                    <?php include_once 'plantillas/formacion/digital/plan.php';  ?>
+                </div>
 
-            <div class="bg-DV">
-                <?php include_once 'plantillas/formacion/smart_cities/ventaja.php';  ?>
-            </div>
+
+                <div class="bg-DV">
+                    <?php include_once 'plantillas/formacion/digital/ventaja.php';  ?>
+                </div>
         </div>
+
+        <div class="tab-pane fade " id="gp-ex" role="tabpanel" aria-labelledby="gp-tab-ex">
+
+            <div class="bg-cursos">
+                <?php include_once 'plantillas/formacion/gp/inicio.php';  ?>
+            </div>
+
+        </div>
+
+        <div class="tab-pane fade " id="gc-ex" role="tabpanel" aria-labelledby="gc-tab-ex">
+
+            <div class="bg-cursos">
+                <?php include_once 'plantillas/formacion/gc/inicio.php';  ?>
+            </div>
+
+        </div>
+
+         <!-- IPV6 -->
+        <div class="tab-pane fade " id="ipv6-ex" role="tabpanel" aria-labelledby="ipv6-tab-ex">
+
+            <div class="bg-cursos">
+                <?php include_once 'plantillas/formacion/ipv6/inicio.php';  ?>
+            </div>
+
+        </div>
+
 
         <div class="tab-pane fade " id="lpm-ex" role="tabpanel" aria-labelledby="lpm-tab-ex">
 
@@ -178,43 +201,7 @@ $titulo = 'Formación Especializada';
 
         </div>
 
-        <div class="tab-pane fade" id="td-ex" role="tabpanel" aria-labelledby="td-tab-ex">
-
-
-            <div class="bg-cursos">
-                <?php include_once 'plantillas/formacion/digital/inicio.php';  ?>
-            </div>
-
-            <div class="bg-details">
-                <?php include_once 'plantillas/formacion/digital/dirigido.php';  ?>
-            </div>
-
-            <div class="bg-certificacion">
-                <div class="grid-certificacion">
-                    <div class="content-certificacion">
-                        <h2>
-                            CERTIFICACIÓN EN PRINCIPIOS DE GESTIÓN DE LA TRANSFORMACIÓN
-                            DIGITAL
-                        </h2>
-                        <p>
-                            Luego de aprobar todos los módulos del programa se te otorgará el certificado en PRINCIPIOS
-                            DE
-                            GESTIÓN DE LA TRANSFORMACIÓN DIGITAL a nombre de GALA’TEL PERÚ.
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="bg-plan">
-                <?php include_once 'plantillas/formacion/digital/plan.php';  ?>
-            </div>
-
-
-            <div class="bg-DV">
-                <?php include_once 'plantillas/formacion/digital/ventaja.php';  ?>
-            </div>
-
-        </div>
+       
 
         <div class="tab-pane fade " id="agil-ex" role="tabpanel" aria-labelledby="agil-tab-ex">
 

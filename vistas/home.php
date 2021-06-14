@@ -32,11 +32,11 @@ $titulo = 'Inicio';
                         <img src="<?php echo RUTA_IMG?>inicio/b_3.png" class="img-fluid">
                     </div>
                 </div>
-                <div class="content_partner">
+                <!-- <div class="content_partner">
                     <div class="hover-img-partners">
                         <img src="<?php echo RUTA_IMG?>inicio/b_4.png" class="img-fluid">
                     </div>
-                </div>
+                </div> -->
                 <div class="content_partner">
                     <div class="hover-img-partners">
                         <img src="<?php echo RUTA_IMG?>inicio/b_5.png" class="img-fluid">

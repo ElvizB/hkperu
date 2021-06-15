@@ -1,7 +1,44 @@
-.b_formacion {
+/* .b_formacion {
   background: url(../../images/formacion/banner_fe.png) no-repeat top;
   background-size: cover;
   height: 276px;
+} */
+
+.formacion_e{
+  padding: 0 0 0;
+}
+.bg_formacion_e{
+  position: relative;
+}
+.bg_formacion_e img {
+  width: 100%;
+  object-fit: cover;
+}
+.center_info_formacion_e{
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+
+.content-formacion_e{
+    display: grid;
+    height: 100%;
+    align-content: center;
+    padding: 0 20px;
+}
+
+.insig_formacion{
+  width: inherit !important;
+}
+
+.title-ipv6{
+  color: #44aa44;
+    font-family: "Montserrat Bold";
+    font-size: 28px;
+    text-align: center;
+    text-transform: inherit !important;
 }
 
 .list_absolute {
@@ -11,17 +48,20 @@
   display: grid;
   justify-content: center;
 }
+.contenedor-ext > span {
+  font-size: 35px;
+}
 
 .height-back {
   height: 276px;
 }
 
-.height-back > h1 {
+.grid-height-title {
   color: white;
-  height: 21vh;
   display: grid;
   justify-content: center;
   align-items: center;
+  font-size: 35px;
 }
 
 .border-cuadro {
@@ -354,7 +394,7 @@
 }
 
 .list_absolute ul li a {
-  font-size: 0.8em;
+  font-size: 11px;
 }
 
 .cd-center {
@@ -421,9 +461,9 @@
 }
 
 .btn-curso {
-  width: 276px;
+  width: 265px;
   background: #44aa44;
-  height: 46px;
+  height: 40px;
   display: grid;
   align-items: center;
   justify-items: center;
@@ -434,10 +474,11 @@
 .btn-curso:hover {
   background: #398c39;
 }
+
 .btn-curso a {
   color: white;
   font-family: "Montserrat Bold";
-  font-size: 18px;
+  font-size: 16px;
 }
 .content-btn {
   display: grid;
@@ -764,7 +805,7 @@ strong {
 
 @media screen and (min-width: 768px) {
   .height-back > h1 {
-       height: 21vh;
+       height: 24vh;
    
   }
   .grid-info-dirigido {

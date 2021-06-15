@@ -76,7 +76,7 @@
              <div class="col-md-12 entry-size">
                  <select name="consultoria" id="consultoria" class="browser-default custom-select ">
                      <option value="" selected disabled>¿Que tipo de consultoria?</option>
-                     <option value="IPV6">IPV 6</option>
+                     <option value="IPv6">IPv6 </option>
                      <option value="Legal Project Management">LPM (Legal Project Management)</option>
                      <option value="Gestión por Procesos">Gestión por Procesos</option>
                      <option value="Gestión del Cambio">Gestión del Cambio</option>

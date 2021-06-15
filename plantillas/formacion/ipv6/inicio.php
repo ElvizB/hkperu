@@ -30,7 +30,7 @@
 
     <div class="grid-info-curso">
         <div class="info-curso">
-            <h2>IPv6</h2>
+            <h2 class="title-ipv6">IPv6</h2>
             <p>
             La comunicación de las redes de conexión a Internet se
             modifican y se actualizan. Por ello, nos enfocamos en la

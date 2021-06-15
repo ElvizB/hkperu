@@ -11,9 +11,10 @@ $titulo = 'Consultoria';
         <div class="row ">
             <!-- Grid column -->
             <div class="col-lg-12 b_consult">
-                <div class="col-xl-10 col-lg-12  flex-center contenedor-ext">
-                    <h1 class="h1-responsive font-mosterrat-bold wow fadeInDown animated" data-wow-delay="0.4s">
-                        CONSULTORÍA</h1>
+                <div class="col-xl-10 col-lg-12  flex-center-title contenedor-ext">
+                    <span class="font-mosterrat-bold wow fadeInDown animated" data-wow-delay="0.4s">
+                        CONSULTORÍA</span>
+                    <img src="<?php echo RUTA_IMG?>consultoria/certificacion-acreditacion.png" class="img-fluid" />
                 </div>
             </div>
 
@@ -45,7 +46,7 @@ $titulo = 'Consultoria';
                                                 <div class="col-lg-9">
                                                     <div class="py-3 title_consultoria">
                                                         <h4 class=" h4-responsive font-mosterrat-bold">
-                                                        IPV6</h4>
+                                                        IPv6</h4>
                                                         <p class=" font-mosterrat-regular">
                                                         La comunicación de las redes de conexión a Internet se
                                                         modifican y se actualizan. Por ello, nos enfocamos en la

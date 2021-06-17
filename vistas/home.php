@@ -24,6 +24,11 @@ $titulo = 'Inicio';
                 </div>
                 <div class="content_partner">
                     <div class="hover-img-partners">
+                        <img src="<?php echo RUTA_IMG?>inicio/b_6.png" class="img-fluid">
+                    </div>
+                </div>
+                <div class="content_partner">
+                    <div class="hover-img-partners">
                         <img src="<?php echo RUTA_IMG?>inicio/b_2.png" class="img-fluid">
                     </div>
                 </div>

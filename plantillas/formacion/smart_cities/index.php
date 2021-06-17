@@ -31,10 +31,19 @@
 
     <div class="grid-info-curso">
         <div class="info-curso">
-            <h2>IPV6</h2>
-            <p>En este curso, se explorará el diseño y despliegue a la red
-IPv6 y se conocerá las implicancias de seguridad de cada
-una de las características y funcionalidades de IPv6.
+            <h2>SMART CITIES</h2>
+            <p>
+                Servicio de consultoría para diseñar, planificar y
+                ejecutar nuevos procesos y encaminarse a una
+                Smart Cities. Un objetivo prioritario es obtener el
+                retorno sobre la inversión (ROI) - Smart Project.
+            </p>
+            <p>
+                Realizando un análisis inicial definimos el modelo
+                en su conjunto, adaptándolo a la Hoja de Ruta,
+                será posible poner en marcha los nuevos procesos
+                adoptados y adecuados a las necesidades de los
+                ciudadanos.
             </p>
         </div>
         <div class="img-info-curso">

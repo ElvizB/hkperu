@@ -500,6 +500,7 @@
   max-width: 100%;
   padding: 0 20px;
   text-align: justify;
+  padding-top: 1em;
 }
 .info-curso h2 {
   color: #44aa44;
@@ -794,6 +795,19 @@ strong {
   display: flex;
   flex-direction: column-reverse;
 }
+/*************************************/
+.grid-ipv6{
+  display: grid;
+  grid-template-columns: 100%;  
+}
+
+
+@media screen and (min-width: 990px) {
+  .grid-ipv6{    
+    grid-template-columns: 20% 45% 35%;
+   
+  }
+}
 
 @media screen and (min-width: 575px) {
   .web_formation {
@@ -882,6 +896,7 @@ strong {
     margin-bottom: 0em;
   }
   .info-curso {
+    padding-top: 0em;
     text-align: center;
     max-width: 400px;
     margin: auto;

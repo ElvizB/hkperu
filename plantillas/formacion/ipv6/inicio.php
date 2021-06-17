@@ -28,7 +28,10 @@
         <p>* Preguntar por facilidades de financiamiento</p>
     </div>
 
-    <div class="grid-info-curso">
+    <div class="grid-ipv6">
+        <div class="grid-items-principal">
+            <img src="<?php echo RUTA_IMG?>formacion/certificacion_.png" class="img-fluid" />
+        </div>
         <div class="info-curso">
             <h2 class="title-ipv6">IPv6</h2>
             <p>

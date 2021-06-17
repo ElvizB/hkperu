@@ -40,3 +40,22 @@
 .back_color {
   background: #f2f2f2;
 }
+/*************************************/
+.grid-consultoria-items{
+  display: grid;
+  grid-template-columns:100%;
+  grid-gap: 0%;
+}
+
+.grid-items-principal{
+  display: grid;
+  align-content: center;
+  justify-content: center;
+}
+
+@media screen and (min-width: 990px) {
+  .grid-consultoria-items{    
+    grid-template-columns: 18% 60% 16%;
+    grid-gap: 3%;
+  }
+}

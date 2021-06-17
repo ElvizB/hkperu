@@ -22,7 +22,7 @@ $titulo = 'Formación Especializada';
                                 <span class="font-mosterrat-bold wow fadeInDown animated" data-wow-delay="0.4s">
                                             Formación Especializada                            
                                     </span>
-                                    <img src="<?php echo RUTA_IMG?>formacion/certificacion.png" class="img-fluid insig_formacion" />
+                                    <!-- <img src="<?php echo RUTA_IMG?>formacion/certificacion.png" class="img-fluid insig_formacion" /> -->
                                 </div>
                             <div class="content-btn">
                                 <div class="btn-curso">
@@ -42,11 +42,11 @@ $titulo = 'Formación Especializada';
                                 aria-selected="false">TRANSFORMACIÓN DIGITAL</a>
                         </li>
                         <!-- Smart Cities -->
-                        <!-- <li class="nav-item back-cuadro-ul">
+                        <li class="nav-item back-cuadro-ul">
                             <a class="nav-link font-mosterrat-regular" id="sc-tab-ex" data-toggle="tab"
                                 href="#sc-ex" role="tab" aria-controls="sc-ex"
                                 aria-selected="false">SMART CITIES</a>
-                        </li> -->
+                        </li>
                         <!-- agilidad -->
                         <li class="nav-item back-cuadro-ul">
                             <a class="nav-link font-mosterrat-regular" id="agil-tab-ex" data-toggle="tab"
@@ -153,6 +153,47 @@ $titulo = 'Formación Especializada';
                     <?php include_once 'plantillas/formacion/digital/ventaja.php';  ?>
                 </div>
         </div>
+
+         <!-- smart cities -->
+        <div class="tab-pane fade" id="sc-ex" role="tabpanel" aria-labelledby="sc-tab-ex">
+
+            <div class="bg-cursos">
+              <?php include_once 'plantillas/formacion/smart_cities/index.php';  ?>
+            </div>
+
+            <div class="bg-details">
+              <?php include_once 'plantillas/formacion/smart_cities/dirigido.php';  ?>
+            </div>
+
+            <div class="bg-certificacion">
+                <div class="grid-certificacion">
+                    <div class="content-certificacion">
+                        <h2>
+                            CERTIFICACIÓN
+                        </h2>
+                        <h4>
+                            ESPECIALISTA EN SMART CITIES Y GOBIERNO DIGITAL
+                        </h4>
+                        <p>
+                            Luego de aprobar el módulo del programa se te otorgará el
+                            certificado de Especialista en Smart Cities y Gobierno Digital a
+                            nombre de HK PERÚ y SMARTER CITIES.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-plan">
+                <?php include_once 'plantillas/formacion/smart_cities/plan.php';  ?>
+            </div>
+
+
+            <div class="bg-DV">
+                <?php include_once 'plantillas/formacion/smart_cities/ventaja.php';  ?>
+            </div>
+        </div>
+
+
 
          <!--GESTION DEL PROCESO  -->
         <div class="tab-pane fade " id="gp-ex" role="tabpanel" aria-labelledby="gp-tab-ex">

@@ -6,20 +6,7 @@
         <div class="line__subtitle">
             <hr />
         </div>
-        <div class="grid-docente-info">
-            <div class="content-docente-info">
-                <div class="img-docente">
-                    <img src="<?php echo RUTA_IMG?>/formacion/sap/cd_1.png" class="img-fluid" />
-                </div>
-                <div class="description-docente">
-                    <h4> Gonzalo Miguel Mejía F.</h4>
-                    <p>Especialista Certificado en<br> SAP Cloud Platform </p>
-                    <a href="https://www.linkedin.com/in/gonzalo1803/" target="_blank">
-                        <img src="<?php echo RUTA_IMG?>formacion/pmo/ln.png" class="img-fluid " />
-                    </a>
-                </div>
-            </div>
-        </div>
+        
     </div>
     <div class="grid-ventajas">
         <div>

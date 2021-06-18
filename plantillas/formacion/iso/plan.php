@@ -73,7 +73,7 @@
 
                             <div class="ul__content__info subtitle__plan ">
                                 <i class="fas fa-angle-right fa-lg angle__right"></i>
-                                <span class="pl-1 font-montserrat-medium">Introduccióna a la norma ISO 9001:2015</span>
+                                <span class="pl-1 font-montserrat-medium">Introducción a la norma ISO 9001:2015</span>
                                 <div></div>
                                 <div class="text-right">
                                     <i class="fas fa-angle-down fa-lg rotate-icon"></i>

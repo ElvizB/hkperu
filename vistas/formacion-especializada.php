@@ -138,7 +138,7 @@ $titulo = 'Formación Especializada';
                             <p>
                                 Luego de aprobar todos los módulos del programa se te otorgará el certificado en PRINCIPIOS
                                 DE
-                                GESTIÓN DE LA TRANSFORMACIÓN DIGITAL a nombre de GALA’TEL PERÚ.
+                                GESTIÓN DE LA TRANSFORMACIÓN DIGITAL a nombre de HK PERÚ S.A.C.
                             </p>
                         </div>
                     </div>
@@ -177,7 +177,7 @@ $titulo = 'Formación Especializada';
                         <p>
                             Luego de aprobar el módulo del programa se te otorgará el
                             certificado de Especialista en Smart Cities y Gobierno Digital a
-                            nombre de HK PERÚ y SMARTER CITIES.
+                            nombre de HK PERÚ S.A.C. y SMARTER CITIES.
                         </p>
                     </div>
                 </div>
@@ -193,8 +193,6 @@ $titulo = 'Formación Especializada';
             </div>
         </div>
 
-
-
          <!--GESTION DEL PROCESO  -->
         <div class="tab-pane fade " id="gp-ex" role="tabpanel" aria-labelledby="gp-tab-ex">
 
@@ -202,6 +200,9 @@ $titulo = 'Formación Especializada';
                 <?php include_once 'plantillas/formacion/gp/inicio.php';  ?>
             </div>
 
+            <div class="bg-plan">
+                <?php include_once 'plantillas/formacion/gp/plan.php';  ?>
+            </div>
             
             <div class="bg-DV pt-5">
                 <?php include_once 'plantillas/formacion/gp/ventajas.php';  ?>
@@ -229,6 +230,10 @@ $titulo = 'Formación Especializada';
                 <?php include_once 'plantillas/formacion/ipv6/inicio.php';  ?>
             </div>
 
+            <div class="bg-plan">
+                    <?php include_once 'plantillas/formacion/ipv6/plan.php';  ?>
+            </div>
+
             <div class="bg-DV pt-5">
                 <?php include_once 'plantillas/formacion/ipv6/ventajas.php';  ?>
             </div>
@@ -254,7 +259,7 @@ $titulo = 'Formación Especializada';
             
             <div class="bg-plan">
                     <?php include_once 'plantillas/formacion/iso/plan.php';  ?>
-                </div>
+            </div>
 
             <div class="bg-DV ">
                 <?php include_once 'plantillas/formacion/iso/ventajas.php';  ?>
@@ -298,7 +303,7 @@ $titulo = 'Formación Especializada';
 
                     <p>
                         Luego de aprobar el módulo del programa se te otorgará el
-                        certificado a nombre de GALA’TEL PERÚ
+                        certificado a nombre de HK PERÚ S.A.C.
                     </p>
                 </div>
             </div>
@@ -339,7 +344,7 @@ $titulo = 'Formación Especializada';
 
                     <p>
                         Luego de aprobar el módulo o programa se te otorgará el
-                        certificado a nombre de GALA’TEL PERÚ.
+                        certificado a nombre de HK PERÚ S.A.C.
                     </p>
                 </div>
             </div>
@@ -378,7 +383,7 @@ $titulo = 'Formación Especializada';
                     </h2>
                     <p>
                         Luego de aprobar el módulos del programa se te otorgará el
-                        certificado a nombre de PMOFFICERS Y GALA’TEL PERÚ.
+                        certificado a nombre de PMOFFICERS Y HK PERÚ S.A.C.
                     </p>
                 </div>
             </div>

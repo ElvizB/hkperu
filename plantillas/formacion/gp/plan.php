@@ -88,16 +88,6 @@
                                     <!-- <i class="fas fa-angle-down fa-lg rotate-icon"></i> -->
                                 </div>
                             </div>
-                            <div class="ul__content__info subtitle__plan ">
-                                <i class="fas fa-angle-right fa-lg angle__right"></i>
-                                <span class="pl-1 font-montserrat-medium">
-                                     MEJORA DE PROCESOS
-                                </span>
-                                <div></div>
-                                <div class="text-right">
-                                    <!-- <i class="fas fa-angle-down fa-lg rotate-icon"></i> -->
-                                </div>
-                            </div>
                         </a>
                     </div>                 
                 </div>
@@ -105,6 +95,34 @@
             </div>
             <!--/.Accordion wrapper-->
         </div>   
+
+         <div class="conten-info-plan">
+            <!--Accordion wrapper 8-->
+            <div class="accordion md-accordion accordion-2" >
+
+                <!-- Accordion card -->
+                <div class="card rounded__content z-depth-1">
+
+                    <!-- Card header -->
+                    <div class="card-header content__plan" role="tab" id="heading26">
+                        <a class="collapsed" >
+                            <div class="ul__content__info subtitle__plan ">
+                                <i class="fas fa-angle-right fa-lg angle__right"></i>
+                                <span class="pl-1 font-montserrat-medium">
+                                    MEJORA DE PROCESOS
+                                </span>
+                                <div></div>
+                                <div class="text-right">
+                                    <!-- <i class="fas fa-angle-down fa-lg rotate-icon"></i> -->
+                                </div>
+                            </div>
+                        </a>                        
+                    </div>                 
+                </div>
+                <!-- Accordion card -->
+            </div>
+            <!--/.Accordion wrapper-->
+        </div> 
 
         <div class="conten-info-plan">
             <!--Accordion wrapper 8-->
@@ -128,6 +146,27 @@
                                     <!-- <i class="fas fa-angle-down fa-lg rotate-icon"></i> -->
                                 </div>
                             </div>
+                            
+                        </a>
+                    </div>                 
+                </div>
+                <!-- Accordion card -->
+            </div>
+            <!--/.Accordion wrapper-->
+        </div>  
+      
+
+      
+        <div class="conten-info-plan">
+            <!--Accordion wrapper 8-->
+            <div class="accordion md-accordion accordion-2" >
+
+                <!-- Accordion card -->
+                <div class="card rounded__content z-depth-1">
+
+                    <!-- Card header -->
+                    <div class="card-header content__plan" role="tab" id="heading26">
+                        <a class="collapsed" >
                             <div class="ul__content__info subtitle__plan ">
                                 <i class="fas fa-angle-right fa-lg angle__right"></i>
                                 <span class="pl-1 font-montserrat-medium">
@@ -138,14 +177,13 @@
                                     <!-- <i class="fas fa-angle-down fa-lg rotate-icon"></i> -->
                                 </div>
                             </div>
-                        </a>
+                        </a>                        
                     </div>                 
                 </div>
                 <!-- Accordion card -->
             </div>
             <!--/.Accordion wrapper-->
-        </div>  
-      
+        </div> 
 
         <div class="conten-info-plan">
             <!--Accordion wrapper 8-->

@@ -10,7 +10,7 @@
                 </div>
                 <div class="MD-curso">
                     <h6> Modalidad </h6>
-                    <p>Clases en Modalidad Online</p>
+                    <p>Clases de modalidad online.</p>
                 </div>
             </div>
             <div class="content-MD-curso">
@@ -19,7 +19,7 @@
                 </div>
                 <div class="MD-curso">
                     <h6> Duración </h6>
-                    <p>Según el taller a elegir.</p>
+                    <p>10 horas lectivas</p>
                 </div>
             </div>
         </div>

@@ -18,7 +18,7 @@ $titulo = 'Formación Especializada';
             <div class="content-formacion_e wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeIn; animation-delay: 0.4s;">
             
                         <div class="grid-height-title">
-                            <div class="">
+                            <div class="pb-fe">
                                 <span class="font-mosterrat-bold wow fadeInDown animated" data-wow-delay="0.4s">
                                             Formación Especializada                            
                                     </span>
@@ -83,7 +83,7 @@ $titulo = 'Formación Especializada';
                         <li class="nav-item back-cuadro-ul">
                             <a class="nav-link  show font-mosterrat-regular" id="iso-tab-ex"
                                 data-toggle="tab" href="#iso-ex" role="tab" aria-controls="iso-ex"
-                                aria-selected="true">ISO</a>
+                                aria-selected="true">ISO 9001:2015</a>
                         </li>
 
                         <!-- IPV6 -->

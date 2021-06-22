@@ -18,14 +18,14 @@
 
             <p class="text-center white-text font-AvenirNext-regular pb-2 small">
                 SÍGUENOS</p>
-            <a href="https://www.facebook.com/GalatelPeru" target="_blank" class="pr-2">
+            <a href="https://www.facebook.com/hkperuoficial/" target="_blank" class="pr-2">
                 <img src=" <?php echo RUTA_IMG?>inicio/fb.png" alt="">
             </a>
 
-            <a href="https://www.linkedin.com/company/galatelperu" target="_blank" class="pr-2">
+            <a href="https://instagram.com/hkperuoficial?utm_medium=copy_link" target="_blank" class="pr-2">
                 <img src="<?php echo RUTA_IMG?>inicio/ln.png" alt="">
             </a>
-            <a href="https://www.instagram.com/galatel_peru" target="_blank" class="">
+            <a href="https://www.linkedin.com/company/hk-per%C3%BA" target="_blank" class="">
                 <img src="<?php echo RUTA_IMG?>inicio/ig.png" alt="">
             </a>
         </div>

@@ -76,14 +76,16 @@
              <div class="col-md-12 entry-size">
                  <select name="consultoria" id="consultoria" class="browser-default custom-select ">
                      <option value="" selected disabled>¿Que tipo de consultoria?</option>
-                     <option value="IPv6">IPv6 </option>
+                     <option value="Transformacion Digital">Transformación Digital</option>
+                     <option value="Smart Cities">Smart Cities</option>
+                     <option value="Agilidad">Agilidad</option>
                      <option value="Legal Project Management">LPM (Legal Project Management)</option>
                      <option value="Gestión por Procesos">Gestión por Procesos</option>
-                     <option value="Gestión del Cambio">Gestión del Cambio</option>
-                     <option value="Transformacion Digital">Transformación Digital</option>
-                     <option value="Agilidad">Agilidad</option>
-                     <option value="SAP">SAP</option>
+                     <option value="Gestión del Cambio">Gestión del Cambio</option>                    
                      <option value="PMO">PMO</option>
+                     <option value="IPv6">IPv6 </option>
+                     <option value="SAP">SAP</option>
+                     <option value="Data Management">Data Management</option>                                
                  </select>
              </div>
              <!-- Grid column -->

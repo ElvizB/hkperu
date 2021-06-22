@@ -19,7 +19,7 @@
                 </div>
                 <div class="MD-curso">
                     <h6> Duración </h6>
-                    <p>Según el taller a elegir.</p>
+                    <p>30 horas lectivas</p>
                 </div>
             </div>
         </div>

@@ -347,15 +347,35 @@
   grid-gap: 1em;
 }
 
+.list_absolute ul li a {
+  font-size: 9px;
+}
+
 @media screen and (min-width: 768px) {
   .navbar.navbar-dark .breadcrumb .nav-item .nav-link, .navbar.navbar-dark .navbar-nav .nav-item .nav-link{
-  color: white !important;
+     color: white !important;
+    }
+  .list_absolute ul li a {
+      font-size: 10px;
+  }
 }
-}
-@media screen and (min-width: 1025px) {
+@media screen and (min-width: 1024px) {
   .grid_partner {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
+  }
+  .list_absolute ul li a {
+    font-size: 8px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .grid_partner {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+  }
+  .list_absolute ul li a {
+    font-size: 11px;
   }
 }
 
@@ -455,9 +475,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-  }
-  .list_absolute ul li a {
-    font-size: 0.6em !important;
   }
   .list_absolute ul li {
     margin-right: 0.2rem !important;
@@ -662,9 +679,6 @@
   .nav-link {
     padding: 0.4rem 0.5rem !important;
   }
-  .list_absolute ul li a {
-    font-size: 0.6em !important;
-  }
   .list_absolute ul li {
     margin-right: 1rem !important;
   }
@@ -765,9 +779,7 @@
 }
 
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
-  .list_absolute ul li a {
-    font-size: 0.6em !important;
-  }
+
   .u-case {
     font-size: 0.8em !important;
   }
@@ -785,9 +797,6 @@
   }
   .title_soli h5 {
     font-size: 18px !important;
-  }
-  .list_absolute ul li a {
-    font-size: 14px;
   }
   .title_conten_consult {
     text-align: center;
@@ -917,9 +926,6 @@
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1460px) {
-  .list_absolute ul li a {
-    font-size: 0.7em !important;
-  }
   .list_absolute ul li {
     margin-right: 0.5rem !important;
   }

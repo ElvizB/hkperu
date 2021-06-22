@@ -4,7 +4,7 @@
 //define("SERVIDOR", "http://localhost/hkperu/");
 //define("SERVIDOR", "https://hkperuu.herokuapp.com/");
 //rutas de la web
-define("SERVIDOR", "https://hkperuu.herokuapp.com/");
+define("SERVIDOR", "https://hkperu.com/");
 define("RUTA_SERVICIOS", SERVIDOR."servicios");
 define("RUTA_CONSULTORIA", SERVIDOR."consultoria");
 define("RUTA_FORMACION", SERVIDOR."formacion-especializada");

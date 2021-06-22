@@ -38,8 +38,8 @@
                             </ul>
                             <div class="grid-btn-plataforma">
                                 <a class="btn-plataforma"
-                                    href="https://site.q10.com/login?ReturnUrl=%2F&aplentId=93be9bdb-c9fd-4c2a-9583-cb810a0ca59f"
-                                    target="_blank">
+                                    href="#"
+                                    >
                                     <p class="font-mosterrat-bold"> Ingreso a la</p>
                                     <p class="font-mosterrat-bold">plataforma educativa</p>
                                 </a>

@@ -22,10 +22,10 @@
                 <img src=" <?php echo RUTA_IMG?>inicio/fb.png" alt="">
             </a>
 
-            <a href="https://instagram.com/hkperuoficial?utm_medium=copy_link" target="_blank" class="pr-2">
+            <a href="https://www.linkedin.com/company/hk-per%C3%BA" target="_blank" class="pr-2">
                 <img src="<?php echo RUTA_IMG?>inicio/ln.png" alt="">
             </a>
-            <a href="https://www.linkedin.com/company/hk-per%C3%BA" target="_blank" class="">
+            <a href="https://instagram.com/hkperuoficial?utm_medium=copy_link" target="_blank" class="">
                 <img src="<?php echo RUTA_IMG?>inicio/ig.png" alt="">
             </a>
         </div>
@@ -45,7 +45,7 @@
         <div class="col-lg-8 col-md-12 col-sm-12">
 
             <div class="py-2 background-footer2 text-dark font-AvenirNext-regular text-right small padding-r">
-                © 2020 GALATEL PERÚ | TODOS LOS DERECHOS RESERVADOS
+                © 2021 HK PERÚ| TODOS LOS DERECHOS RESERVADOS
             </div>
 
         </div>
